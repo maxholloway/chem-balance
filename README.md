@@ -1,4 +1,5 @@
 How to run the program:
+
 0.) Download the file "runnable"
 
 1.) Open the file and double click the file called "chem-balance.jar"
